@@ -1,9 +1,6 @@
 # All-Visual-Studio-Basic-By-MONSTERMC
 All Visual Studio&amp;Basic By MONSTERMC
 
-not finsh لم تنتهي بعد
-
-
 * tool : [download](https://magholarabeee.blogspot.com/2022/01/blog-post_8.html)
 
 ToTo
